@@ -1,0 +1,21 @@
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\ASCII converter.exe
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\ASCII converter.deps.json
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\ASCII converter.runtimeconfig.json
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\ASCII converter.dll
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\ASCII converter.pdb
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\System.Private.Windows.Core.dll
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII converter.csproj.AssemblyReference.cache
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII converter.AssemblyInfoInputs.cache
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII converter.AssemblyInfo.cs
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII converter.csproj.CoreCompileInputs.cache
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII co.05ED2B2A.Up2Date
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII converter.dll
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\refint\ASCII converter.dll
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII converter.pdb
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ASCII converter.genruntimeconfig.cache
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\obj\Debug\net8.0\ref\ASCII converter.dll
+C:\Users\manny\source\repos\Random\ASCII converter\ASCII converter\bin\Debug\net8.0\image.png

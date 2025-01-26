@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRtdyh6akJc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manny\\source\\repos\\Random\\ASCII converter\\ASCII converter\\ASCII converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manny\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.1\\microsoft.win32.systemevents.9.0.1.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
